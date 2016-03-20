@@ -1,5 +1,5 @@
 """
-# Copyright 2013 Nick Cheng, Brian Harrington, Danny Heap, Yue Gan, 2013, 2014
+# Copyright 2013 Nick Cheng, Brian Harrington, Danny Heap, 2013, 2014
 # Distributed under the terms of the GNU General Public License.
 #
 # This file is part of Assignment 1, CSC148, Winter 2014
